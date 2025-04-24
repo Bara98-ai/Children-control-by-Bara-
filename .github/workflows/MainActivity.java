@@ -1,4 +1,5 @@
-package com.example.childrencontrol;
+
+package com.childrencontrol;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
